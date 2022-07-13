@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+    color: var(--text-color);
+    --text-nav-color: rgb(67, 66, 66);
+    --text-title-color: rgb(25, 25, 25);
+    --text-subtitle-color: rgb(100, 100, 100);
+    --text-paragraph-color: rgb(82, 82, 82);
+    --text-card-title-color: rgb(10, 10, 10);
+    --text-background-color: rgb(84, 69, 184);
+    --text-light-color: rgb(225, 225, 225);
+    --text-backgroung-input-forma: rgb(246, 245, 248);
+    --text-footer-color: rgb(170, 169, 169);
+}
+
+img {
+    display: block;
+    height: auto;
+}
+
+body {
+    min-width: 320px;
+}
+
+a {
+    text-decoration: none;
+}
