@@ -14,8 +14,6 @@
     align-items: center;
     justify-content: space-around;
     list-style-type: none;
-    flex: 1;
-
 }
 
 .nav-bar__link{

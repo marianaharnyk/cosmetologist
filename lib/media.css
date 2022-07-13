@@ -1,0 +1,30 @@
+@media (min-width: 600px){
+    .grid{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 900px){
+    .grid{
+        grid-template-columns: 1fr 1fr 1fr ;
+    }
+
+    .header__wrapper{
+        flex-direction: row;
+        align-items: center;
+    }
+    .header__logo-container{
+        padding-bottom: 10px;
+        flex: 1;
+    }
+    .treatments__warranties{
+        flex-direction: row;
+    }
+    .treatments__warranties-card{
+        flex: 1;
+    }
+    .contact-us__box{
+        margin-left: 40px;
+    }
+
+}
