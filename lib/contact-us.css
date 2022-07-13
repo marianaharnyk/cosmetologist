@@ -1,0 +1,71 @@
+.contact-us__background{
+    background-image: url(../img/contact-form.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    margin-top: 30px;
+}
+
+.contact-us__background .container{
+    padding-top: 55px;
+}
+
+.contact-us__box{
+    background: var(--text-light-color);
+    min-width: 300px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+
+}
+
+.contact-us__subtitle{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2.4px;
+    line-height: 16.8px;
+    color: var(--text-subtitle-color);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.contact-us__title{
+    font-family: Georama, sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 40.8px;
+    color: var(--text-title-color);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.contact-us__form-user{
+    padding: 15px 26px;
+    background: var(--text-backgroung-input-forma);
+    border: none;
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+
+}
+
+.contact-us__form-button{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 20px 40px;
+    width: 100%;
+    border: none;
+    background-color: var(--text-background-color);
+    color: var(--text-light-color);
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}

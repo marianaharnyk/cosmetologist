@@ -1,0 +1,26 @@
+.footer{
+    background: var(--text-card-title-color);
+    min-height: 80px;
+    padding-top: 20px;
+}
+.footer__line{
+    height: 1px;
+    width: 50%;
+    line-height: 27.2px;
+    position: relative;
+    background: var(--line-main-color);
+    border: none;
+    margin: 0 auto;
+}
+
+.footer__text{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2.4px;
+    line-height: 16.8px;
+    color: var(--text-light-color);
+    text-align: center;
+    padding-top: 15px;
+    
+}
