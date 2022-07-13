@@ -1,7 +1,52 @@
-.container {
-    width: 100%;
-    max-width: 1200px;
-    margin: auto;
-    padding: 0 24px;
+.treanments_title{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2.4px;
+    line-height: 16.8px;
+    color: var(--text-subtitle-color);
+    text-align: center;
+    padding-top: 100px;
+}
+
+.treanments_subtitle{
+    font-family: Georama, sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 40.8px;
+    color: var(--text-title-color);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.treanments__line{
+    height: 3px;
+    width: 10%;
+    line-height: 27.2px;
+    position: relative;
+    background: var(--line-main-color);
+    border: none;
+    margin: 0 auto;
+    
+}
+
+.treanments__description{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: var(--text-paragraph-color);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+
+.injection{
+    background-image: url(../img/injection.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 500px;
 }
 
