@@ -12,7 +12,7 @@
 
 .about-me__description{
     background: var(--text-about-me-background-color);
-    padding: 20px 40px;
+    padding: 60px 24px;
 }
 .about-me__description-title{
     font-family: "Source Sans Pro", sans-serif;
@@ -21,7 +21,6 @@
     letter-spacing: 2.4px;
     line-height: 16.8px;
     color: var(--text-subtitle-color);
-    padding-top: 40px;
 }
 
 .about-me__description-subtitle{
@@ -58,5 +57,4 @@
     line-height: 27.2px;
     color: var(--text-paragraph-color);
     padding-top: 10px;
-    padding-bottom: 10px;
 }

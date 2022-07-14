@@ -29,6 +29,22 @@
 
     .about-me__container{
        flex-direction: row;
+       height: 600px;
+    }
+    .about-me__image-container{
+        flex: 1;
+    }
+    .about-me__description{
+        flex: 1;
+
+
+    }
+    .about-me__image{
+        object-position: 11.205% 13.587%;
+    }
+
+    .treatments__warranties-card{
+        padding: 70px 24px;
     }
 
 }
