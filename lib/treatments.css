@@ -84,6 +84,39 @@
     background-position: 50% 40%;
 }
 
+.laser{
+    background-image: url(../img/laser.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    align-self: center;
+    justify-self: center;
+    background-position: 50% 40%;
+}
+
+.lifting{
+    background-image: url(../img/lifting.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    align-self: center;
+    justify-self: center;
+    background-position: 50% 70%;
+}
+
+.skin-care{
+    background-image: url(../img/skin-care.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    align-self: center;
+    justify-self: center;
+    background-position: 50% 40%;
+}
+
 
 .grid_item-title{
     font-family: Georama, sans-serif;

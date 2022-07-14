@@ -27,4 +27,8 @@
         margin-left: 40px;
     }
 
+    .about-me__container{
+       flex-direction: row;
+    }
+
 }

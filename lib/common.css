@@ -13,13 +13,14 @@
     --text-subtitle-color: rgb(100, 100, 100);
     --text-paragraph-color: rgb(82, 82, 82);
     --text-card-title-color: rgb(10, 10, 10);
-    --header-background-color: rgb(188, 206, 251);
     --text-background-color: rgb(84, 69, 184);
     --text-light-color: rgb(255, 255, 255);
     --text-backgroung-input-forma: rgb(246, 245, 248);
     --text-footer-color: rgb(170, 169, 169);
     --line-header-color: rgba(10, 10, 10, 0.06);
     --line-main-color: rgb(234, 217, 242);
+    --text-about-me-background-color: rgb(180, 230, 233);
+    --line-about-me-color: rgba(10, 10, 10, 0.05);
 
 }
 

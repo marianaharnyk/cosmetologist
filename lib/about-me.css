@@ -1,0 +1,62 @@
+.about-me__container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.about-me__image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.about-me__description{
+    background: var(--text-about-me-background-color);
+    padding: 20px 40px;
+}
+.about-me__description-title{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2.4px;
+    line-height: 16.8px;
+    color: var(--text-subtitle-color);
+    padding-top: 40px;
+}
+
+.about-me__description-subtitle{
+    font-family: Georama, sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 40.8px;
+    color: var(--text-title-color);
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.about-me__description-line{
+    height: 3px;
+    width: 10%;
+    line-height: 27.2px;
+    background: var(--line-about-me-color);
+    border: none;
+}
+
+.about-me__description-main-text{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: var(--text-paragraph-color);
+    padding-top: 10px;
+}
+
+.about-me__description-text{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27.2px;
+    color: var(--text-paragraph-color);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
