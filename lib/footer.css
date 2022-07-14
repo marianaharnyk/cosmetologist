@@ -3,6 +3,7 @@
     min-height: 80px;
     padding-top: 20px;
 }
+
 .footer__line{
     height: 1px;
     width: 50%;
@@ -22,5 +23,4 @@
     color: var(--text-light-color);
     text-align: center;
     padding-top: 15px;
-    
 }

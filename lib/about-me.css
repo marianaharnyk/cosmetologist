@@ -14,6 +14,7 @@
     background: var(--text-about-me-background-color);
     padding: 60px 24px;
 }
+
 .about-me__description-title{
     font-family: "Source Sans Pro", sans-serif;
     font-size: 12px;

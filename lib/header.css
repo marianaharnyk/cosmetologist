@@ -26,7 +26,10 @@
 
 .nav-bar__link a {
     color: var(--text-nav-color);
+}
 
+.nav-bar__link a:hover{
+    color: var(--text-nav-hover-color);
 }
 
 .header__banner-background{
@@ -88,4 +91,9 @@
     background: var(--text-background-color);
     padding: 10px 20px;
     position: relative;    
+}
+
+.header__banner-button:hover{
+    background: var(--text-button-hover-color);
+    transition:1s;
 }

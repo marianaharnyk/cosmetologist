@@ -21,7 +21,8 @@
     --line-main-color: rgb(234, 217, 242);
     --text-about-me-background-color: rgb(180, 230, 233);
     --line-about-me-color: rgba(10, 10, 10, 0.05);
-
+    --text-nav-hover-color: rgb(0, 0, 0);
+    --text-button-hover-color: rgb(128, 116, 203);
 }
 
 img {

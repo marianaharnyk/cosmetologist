@@ -17,7 +17,6 @@
     flex-direction: column;
     align-items: center;
     margin: auto;
-
 }
 
 .contact-us__subtitle{
@@ -52,7 +51,6 @@
     font-family: "Source Sans Pro", sans-serif;
     font-size: 15px;
     line-height: 20px;
-
 }
 
 .contact-us__form-button{
@@ -66,5 +64,9 @@
     color: var(--text-light-color);
     margin-top: 30px;
     margin-bottom: 20px;
+}
 
+.contact-us__form-button:hover{
+    background: var(--text-button-hover-color);
+    transition:1s;
 }
